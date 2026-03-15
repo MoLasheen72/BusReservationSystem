@@ -1,0 +1,30 @@
+FOLLOW THESE INSRTRUCTIONS TO RUN THE PROJECT ON YOUR PC USING GIT:
+
+>> Run Git on the Folder
+1- Right Click > Open Git Bash (OPENS GIT TERMINAL)
+2- git init (INISIALIZES GIT)
+3- git clone https://github.com/MoLasheen72/BusReservationSystem.git (DOWNLOAD ALL FILES IN THE URL)
+
+>> Run The Program
+1- cd BusReservationSystem/BusReservationSystem (Ensure You are in the Right Path > YOU CAN JUST OPEN THE TERMINAL IN THE PATH)
+2- gcc *.c -o main (Compiles All C files in the Path and Names the .exe File with > (main.c file will appears))
+3- ./main (Runs the Program - YOU ARE ALL SET NOW)
+
+===========================================================================================
+
+SOME DATA YOU CAN USE:
+
+>> To Login Use these 3 Users:
+            username = Amit1,  password = 1     //User1
+            username = Amit2,  password = 2     //User2
+            username = Amit3,  password = 3     //User3
+
+>> Some Passengers Tickest You Can Use After Loging in:
+            name = Fam,   age = 20, seats_booked = 58, bus_number = 101, id = 1
+
+            name = Farid, age = 16, seats_booked = 15, bus_number = 201, id = 1
+            name = Ahmed, age = 32, seats_booked = 35, bus_number = 201, id = 2
+
+            name = Emad,  age = 34, seats_booked = 10, bus_number = 301, id = 1
+            name = Faris, age = 19, seats_booked = 15, bus_number = 301, id = 2
+            name = Ryad,  age = 26, seats_booked = 25, bus_number = 301, id = 3
