@@ -6,7 +6,7 @@ FOLLOW THESE INSRTRUCTIONS TO RUN THE PROJECT ON YOUR PC USING GIT:
 3- git clone https://github.com/MoLasheen72/BusReservationSystem.git (DOWNLOAD ALL FILES IN THE URL)
 
 >> Run The Program
-1- cd BusReservationSystem/BusReservationSystem (Ensure You are in the Right Path > YOU CAN JUST OPEN THE TERMINAL IN THE PATH)
+1- Ensure You are in the Right Path > YOU CAN JUST OPEN THE TERMINAL IN THE PATH
 2- gcc *.c -o main (Compiles All C files in the Path and Names the .exe File with > (main.c file will appears))
 3- ./main (Runs the Program - YOU ARE ALL SET NOW)
 
